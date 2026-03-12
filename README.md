@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=RAHAL%20ABDELMADJID&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=RAHAL%20ABDELMADJID&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Scalable%20Web%20%E2%80%A2%20Mobile%20Applications&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
@@ -70,50 +70,9 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 ## 🔭 What I'm Working On
 
-- 🚀 **FIXOE Platform** — An Uber-like on-demand artisan marketplace (Express API + React Native + Next.js Admin + MongoDB + Socket.IO)
-- 📦 **WMS Mobile App** — Production-grade Warehouse Management System built with Expo & React Native
-- 💼 **[Hirini](https://github.com/Abdelmadji96/hirini)** — A hiring & recruitment platform to connect talent with opportunities
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Abdelmadji96/school-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelmadji96&repo=school-web-app&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Abdelmadji96/chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelmadji96&repo=chat-app&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Abdelmadji96/navigator-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelmadji96&repo=navigator-app&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Abdelmadji96/next-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdelmadji96&repo=next-boilerplate&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdelmadji96&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Abdelmadji96&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmadji96&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
-
-</div>
+- 💼 **[Hirinii](https://www.hirinii.com/)** — Professional recruitment and career development platform connecting talent with opportunity
+- 🚀 **[FIXOE](https://www.fixoe.tech/)** — Uber-like on-demand artisan marketplace with real-time matching (Express API + React Native + Next.js Admin + MongoDB + Socket.IO)
+- 📦 **[QuickSilver WMS](https://www.quick-silver.express/)** — Production-grade Warehouse Management System built with Expo & React Native
 
 ---
 
