@@ -23,13 +23,14 @@ const abdelmadjid = {
     role: "Full Stack Developer",
     location: "Algiers, Algeria",
     company: "@YAtechnologies",
-    stack: ["MongoDB", "Express.js", "React", "Node.js"],
-    focus: ["Scalable Web Apps", "Mobile Apps", "Clean Architecture"],
+    stack: ["React", "React Native", "Next.js", "Node.js", "Express", "MongoDB"],
+    languages: ["TypeScript", "JavaScript"],
+    tools: ["Expo", "Tailwind CSS", "Firebase", "Git", "REST APIs"],
     motto: "Ship fast. Ship clean. Ship often."
 };
 ```
 
-I'm a **Full Stack Developer** based in **Algiers, Algeria**, building production-grade web and mobile applications with the **MERN stack**. I work at **@YAtechnologies** where I architect and deliver end-to-end solutions — from RESTful APIs and real-time systems to polished cross-platform mobile experiences with **React Native**.
+I'm a **Full Stack Developer** based in **Algiers, Algeria**, building production-grade web and mobile applications. I work at **@YAtechnologies** where I architect and deliver end-to-end solutions — from **REST APIs** with **Node.js/Express** and **MongoDB**, to modern frontends with **React/Next.js**, to cross-platform mobile apps with **React Native** and **Expo**.
 
 I care deeply about **clean code**, **scalable architecture**, and **great user experience**. Whether it's a logistics platform, an e-commerce system, or an admin dashboard — I build it to last.
 
@@ -39,30 +40,29 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 <div align="center">
 
-### Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Database & Backend
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### DevOps & Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
