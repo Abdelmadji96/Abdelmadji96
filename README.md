@@ -70,9 +70,9 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 ## 🔭 What I'm Working On
 
-- 💼 **[Hirinii](https://www.hirinii.com/)** — Professional recruitment and career development platform connecting talent with opportunity
-- 🚀 **[FIXOE](https://www.fixoe.tech/)** — Uber-like on-demand artisan marketplace with real-time matching (Express API + React Native + Next.js Admin + MongoDB + Socket.IO)
-- 📦 **[QuickSilver WMS](https://www.quick-silver.express/)** — Production-grade Warehouse Management System built with Expo & React Native
+- 💼 **<a href="https://www.hirinii.com/" target="_blank">Hirinii</a>** — Professional recruitment and career development platform connecting talent with opportunity
+- 🚀 **<a href="https://www.fixoe.tech/" target="_blank">FIXOE</a>** — Uber-like on-demand artisan marketplace with real-time matching (Express API + React Native + Next.js Admin + MongoDB + Socket.IO)
+- 📦 **<a href="https://www.quick-silver.express/" target="_blank">QuickSilver WMS</a>** — Production-grade Warehouse Management System built with Expo & React Native
 
 ---
 
