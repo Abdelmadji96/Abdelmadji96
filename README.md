@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=RAHAL%20ABDELMADJID&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Mobile%20%26%20Web&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=RAHAL%20ABDELMADJID&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
@@ -72,8 +72,7 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 - 🚀 **FIXOE Platform** — An Uber-like on-demand artisan marketplace (Express API + React Native + Next.js Admin + MongoDB + Socket.IO)
 - 📦 **WMS Mobile App** — Production-grade Warehouse Management System built with Expo & React Native
-- 🌐 **CRB Website** — A modern web platform currently in development
-- 🔧 Building reusable boilerplates for rapid project bootstrapping
+- 💼 **[Hirini](https://github.com/Abdelmadji96/hirini)** — A hiring & recruitment platform to connect talent with opportunities
 
 ---
 
@@ -118,15 +117,6 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 ---
 
-## 🌱 Currently Learning
-
-- 🧠 Advanced system design & microservices architecture
-- ☁️ Cloud deployment (AWS / GCP)
-- 📱 Advanced React Native animations & performance optimization
-- 🤖 Exploring AI/ML integrations in web applications
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -139,16 +129,6 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 <br/>
 
 💬 **Open for freelance projects, collaborations, and full-time opportunities.**
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Fun Fact
-
-> I debug production issues faster than I decide what to eat for lunch.
 
 </div>
 
