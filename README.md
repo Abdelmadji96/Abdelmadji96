@@ -72,7 +72,6 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 - 💼 **<a href="https://www.hirinii.com/" target="_blank">Hirinii</a>** — Professional recruitment and career development platform connecting talent with opportunity
 - 🚀 **<a href="https://www.fixoe.tech/" target="_blank">FIXOE</a>** — Uber-like on-demand artisan marketplace with real-time matching (Express API + React Native + Next.js Admin + MongoDB + Socket.IO)
-- 📦 **<a href="https://www.quick-silver.express/" target="_blank">QuickSilver WMS</a>** — Production-grade Warehouse Management System built with Expo & React Native
 
 ---
 
@@ -87,7 +86,7 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 <br/>
 
-💬 **Open for freelance projects, collaborations, and full-time opportunities.**
+💬 **Open for freelance projects, collaborations, and part-time opportunities.**
 
 </div>
 
