@@ -6,6 +6,8 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logoColor=white)](https://rahal.t4startups.com/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdelmadji96&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelmadjid-rahal-163138210)
@@ -81,7 +83,7 @@ I care deeply about **clean code**, **scalable architecture**, and **great user 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelmadjid-rahal-163138210)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelmadjid.rahal07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com) <!-- Replace with your portfolio URL when ready -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58A6FF?style=for-the-badge&logoColor=white)](https://rahal.t4startups.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelmadji96)
 
 <br/>
